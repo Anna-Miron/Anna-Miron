@@ -14,8 +14,7 @@ With a growth-oriented mindset, I thrive on problem-solving and continuously imp
   ⚙️ Databases: MySQL, MongoDB.
   ⚙️ Other Tools: WordPress, Canva, Excel.
 
-<a href="https://www.canva.com/design/DAGZ3pBbhMY/AcjaSvcxiuTce4Rzl5wf3A/view?utm_content=DAGZ3pBbhMY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hce70165f12"><img align="center" src="href="https://www.conovercompany.com/wp-content/uploads/2019/06/wr-resumes-logo.png" target="blank" height="100" /></a>
-
+[<img src="https://www.conovercompany.com/wp-content/uploads/2019/06/wr-resumes-logo.png">](https://www.canva.com/design/DAGZ3pBbhMY/AcjaSvcxiuTce4Rzl5wf3A/view?utm_content=DAGZ3pBbhMY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hce70165f12)
 
 ## 🎓📚💡 My Journey into Tech
 
