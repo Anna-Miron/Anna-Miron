@@ -14,9 +14,7 @@ With a growth-oriented mindset, I thrive on problem-solving and continuously imp
   ⚙️ Databases: MySQL, MongoDB.
   ⚙️ Other Tools: WordPress, Canva, Excel.
 
-[<img src="https://www.conovercompany.com/wp-content/uploads/2019/06/wr-resumes-logo.png" height="100">](https://www.canva.com/design/DAGZ3pBbhMY/AcjaSvcxiuTce4Rzl5wf3A/view?utm_content=DAGZ3pBbhMY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hce70165f12)
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="100">](https://www.linkedin.com/in/ana-maria-miron-5b6383330/)
+[<img src="https://www.conovercompany.com/wp-content/uploads/2019/06/wr-resumes-logo.png" height="100">](https://www.canva.com/design/DAGZ3pBbhMY/AcjaSvcxiuTce4Rzl5wf3A/view?utm_content=DAGZ3pBbhMY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hce70165f12)  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="100">](https://www.linkedin.com/in/ana-maria-miron-5b6383330/)
 
 
 ## 🎓📚💡 My Journey into Tech
