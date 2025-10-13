@@ -37,7 +37,7 @@ As a former entrepreneur managing a successful beauty business for five years, I
 ✔ Collaboration and adaptability – I enjoy working with others and learning from different perspectives.
 
 ## 📩🌍🤝 Let’s Connect!
-I am always open to collaborating on projects, sharing knowledge, and growing within the tech community. Let’s connect!
+I’m always open to learning, collaborating on beginner-friendly projects, and exploring opportunities in both software development and data analytics. If you’re also learning or working in this space, I’d love to connect and share ideas!
 
 ## 🚀 Fun Fact: 
 
