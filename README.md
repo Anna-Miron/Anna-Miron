@@ -1,17 +1,20 @@
  ## 🐝🍯🌻 Hi there and welcome to my page!! 
-I am an ambitious and results-driven software developer with a strong entrepreneurial background and a passion for building efficient, scalable, and high-performing applications. My journey into tech began through a personal need—developing a website for my business—but it quickly evolved into a deep commitment to software development.
+I’m an enthusiastic and motivated learner in software development and data analytics, with a passion for understanding how technology and data can solve real-world problems. My interest in tech began from curiosity and a desire to build practical digital solutions, and since then, I’ve been steadily developing my skills and confidence in coding & data.
+
+I approach every challenge as an opportunity to grow, learn, and improve. I’m still early in my journey, but I am excited about where it’s heading and the possibilities ahead!
 
 With a growth-oriented mindset, I thrive on problem-solving and continuously improving my skills. Every day is an opportunity to refine my craft, explore new technologies, and push the boundaries of what I can achieve.
 
 ## 🖥️ About Me
 
 🔹 Goal: Write clean, efficient, and bug-free code while continuously improving my craft.
-🔹 Currently Learning: Advanced Ruby programming, Object-Oriented Design, and Google Cybersecurity.
+🔹 Currently Learning: Advanced Ruby programming, Object-Oriented Design, and Google Analytics.
 🔹 Tech Stack:
 
-  ⚙️ Languages: Java, Ruby, JavaScript, HTML, CSS, Python (actively expanding).
-  ⚙️ Frameworks & Tools: Ruby on Rails, Git/GitHub, Postman, Git Bash.
-  ⚙️ Databases: MySQL, MongoDB.
+  ⚙️ Languages: Java, Ruby, JavaScript, HTML, CSS, Python.
+  ⚙️ Frameworks & Tools: Ruby on Rails, Git/GitHub, Git Bash.
+  ⚙️ Databases: MySQL.
+  ⚙️ Analytics Tools: Power BI, Google Analytics.
   ⚙️ Other Tools: WordPress, Canva, Excel.
 
 [<img src="https://www.conovercompany.com/wp-content/uploads/2019/06/wr-resumes-logo.png" height="100">](https://www.canva.com/design/DAGZ3pBbhMY/AcjaSvcxiuTce4Rzl5wf3A/view?utm_content=DAGZ3pBbhMY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hce70165f12)  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="100">](https://www.linkedin.com/in/ana-maria-miron-5b6383330/)
@@ -22,20 +25,19 @@ With a growth-oriented mindset, I thrive on problem-solving and continuously imp
 As a former entrepreneur managing a successful beauty business for five years, I leveraged digital tools to enhance customer engagement, streamline operations, and drive business growth. This experience ignited my curiosity about technology, leading me to dive deep into software development.
 
 ✨ Completed a 6-month Full-Stack Developer course at IT Factory (2024).
-✨ Earned Java Developer & Frontend Developer certifications.
-✨ Built responsive web applications using HTML, CSS, JavaScript, Java, and Ruby.
-✨ Developed experience in backend development, working with databases, APIs, and server-side logic.
-✨ Currently pursuing the Google Cybersecurity Professional Certificate and advancing my expertise in Ruby and object-oriented design.
+✨ Earned Java Developer and Frontend Developer certifications.
+✨ Gained hands-on experience with small web projects using HTML, CSS, JavaScript, Java, and Ruby.
+✨ Currently working toward the Data Fellowship Certification while also learning Power BI and Google Analytics to better understand data analysis and visualization.
 
 ## 🌱🔥📌 What I Bring to the Table
 
-✔ Strong problem-solving mindset – I enjoy tackling complex challenges and optimizing performance.
-✔ Project management & collaboration – Experience working in teams to build and deploy web applications.
-✔ Version control proficiency – Skilled in Git/GitHub, ensuring clean workflows and efficient collaboration.
-✔ Continuous learner – Actively expanding my knowledge in cybersecurity, advanced backend development, and emerging technologies.
+✔ A growth mindset – I approach every project as a chance to learn and improve.
+✔ Curiosity for data – I love exploring how data can reveal insights and support better decisions.
+✔ Problem-solving skills – I enjoy figuring out how to make systems and processes more efficient.
+✔ Collaboration and adaptability – I enjoy working with others and learning from different perspectives.
 
 ## 📩🌍🤝 Let’s Connect!
-I am always open to collaborating on projects, sharing knowledge, and growing within the tech community. If you’re looking for a dedicated developer eager to contribute and excel, let’s connect!
+I am always open to collaborating on projects, sharing knowledge, and growing within the tech community. Let’s connect!
 
 ## 🚀 Fun Fact: 
 
